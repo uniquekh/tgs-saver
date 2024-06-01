@@ -3,33 +3,33 @@
   "description": "Telegram bot to save restricted content.",
   "logo": "",
   "keywords": ["telegram", "Save Restricted Content by TGS", "bot"],
-  "repository": "https://github.com/itsmevikas1009/SaveRestrictedContentBot_byTGS",
+  "repository": "https://github.com/uniquekh/tgs-saver.git",
   "website": "",
-  "success_url": "https://t.me/HackingCraze24_7d",
+  "success_url": "https://t.me/getallmodapk",
   "env": {
     "API_HASH": {
       "description": "Your API HASH from my.telegram.org",
-      "value": ""
+      "value": "2892db755e485aaf8e55b4b70e8953f6"
     },
     "API_ID": {
       "description": "Your API ID from my.telegram.org",
-      "value": ""
+      "value": "21233086"
     },
     "BOT_TOKEN": {
       "description": "Bot token, get it from @BotFather.",
-      "value": ""
+      "value": "7070203376:AAGpa-l3jb5GbBLJ6WNsjpIviGgKscUUoxs"
     },
     "SESSION": {
       "description": "Pyrogram string session.",
-      "value": ""
+      "value": "BQFD_b4Ap-GanfzYrY43NYnFXxkTQ6JDKPweyTF50vAnrM-2lfZY6RqgBJ6NNKDuEj8_60OV_QPWgyl0Qjabnp25VolUgG3LDX6wT5SGrRS73I_85-9y4RITWQfr-ekcsJjkWMbGR5rLIgk5VcLp9FsBYv1BHSIU_RGNQGhfJQXGuCdjSPL6IR40esfBEEGjPXEMcdWmueR9olErm1zAXKoUwJ5duIangjLqsZKHLGxxyxelSbgwxyH4er-6Nkjb6nQA5e3jzIv6Xtr6rqsuUBmIe-SbRWBniB5c4l5Y4xksCvD4_6W9brncPxr76xdJ0aPnvPNIooxdazOW0SvpcTQoD1rnVAAAAAGnqYHnAA"
     },
     "AUTH": {
       "description": "User ID of Bot owner.",
-      "value": ""
+      "value": "7107871207"
     },
     "FORCESUB": {
       "description": "Username name of public channel without using '@'.",
-      "value": ""
+      "value": "getallmodapk"
     }
   },
   "buildpacks": [
